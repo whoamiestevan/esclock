@@ -1,5 +1,6 @@
+# s-crypt
 Simple password generator written in C.
 
-## Run
-gcc encrypto.c -o encrypto
+# Run
+gcc s-crypt.c -o s-crypt
 ./encrypto
